@@ -1,0 +1,2 @@
+# ProjectLexiconTest
+Learning PHP
